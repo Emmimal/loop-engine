@@ -99,7 +99,7 @@ Swapping `action` for an LLM call (same signature: task and context in, success/
 ## Project Structure
  
 ```
-loop_engineering/
+loop_engine/
 ├── src/
 │   ├── loop_engineering/
 │   │   ├── __init__.py
